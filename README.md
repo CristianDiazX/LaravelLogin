@@ -11,3 +11,5 @@ Base de datos en archivo sql
 Laravel v9.33.0
 
 PHP v8.1.10
+
+Usa Google Authenticator
